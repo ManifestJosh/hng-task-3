@@ -18,6 +18,7 @@ This app displays products from Timbu using the Timbu API.
 
 ## Download
 - AppLink : https://appetize.io/app/b_gk53ixi4zegmnbvpjldajwkcma
+- download link: https://drive.google.com/file/d/1Ryb6RFpm9zmn1HFNQv7kjVjkr3zgPM3k/view?usp=drive_link
 
 
 
