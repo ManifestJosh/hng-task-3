@@ -1,16 +1,40 @@
-# timbu
+## A Shopping app 
 
-A new Flutter project.
 
-## Getting Started
+## Setup Instructions
+1. Clone the repository: `git clone <repository_url>`
+2. Navigate to the project directory: `cd timbu_products_app`
+3. Install dependencies: `flutter pub get`
+4. Run the app: `flutter run`
 
-This project is a starting point for a Flutter application.
+## App Information
+This app displays products from Timbu using the Timbu API.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
+![Screenshot_1720461335](https://github.com/ManifestJosh/hng-task-3/assets/140409286/36d6a353-2459-4fdd-9979-d62787400f04)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1720461344](https://github.com/ManifestJosh/hng-task-3/assets/140409286/e3e9d0b5-99fb-4b1f-a048-ac956a693db8)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Download
+- AppLink : https://appetize.io/app/b_gk53ixi4zegmnbvpjldajwkcma
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+App link :https://appetize.io/app/b_gk53ixi4zegmnbvpjldajwkcma
