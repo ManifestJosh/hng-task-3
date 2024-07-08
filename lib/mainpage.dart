@@ -6,7 +6,7 @@ import 'product_image.dart';
 
 class Mainpage extends StatelessWidget {
   final TimbuApi timbuApi = TimbuApi();
-// test
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
